@@ -12,3 +12,11 @@ public class EvenCheck{
 
     }
 }
+
+
+/* Output :
+Enter the value:
+        10
+        10 is Even number
+
+ */
